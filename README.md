@@ -1,6 +1,7 @@
 ### Hello Visitor 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<p><em>Undergrad Engineering Student at <a href="https://iem.edu.in/">Institute of Engineering and Management</a>
 
 - 🔭 I’m currently working on Embedded Systems...
 - 🌱 I’m currently learning ROS, Machine Learning, Computer Vision...
