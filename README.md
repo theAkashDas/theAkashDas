@@ -15,11 +15,10 @@
   **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
+<!--   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC) -->
 
   
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-black?style=flat&logo=03234B&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
