@@ -16,6 +16,7 @@
 
 - Languages: &nbsp;
 <!--   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC) -->
+ ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=A8B9CC&logoColor=007ACC)
 
   
 - IDEs: &nbsp;
