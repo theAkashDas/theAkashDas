@@ -25,13 +25,13 @@
 
 <img src="https://answers.ros.org/upfiles/14554624266871161.png" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" width="30" height="30"/>&nbsp;&nbsp;
-<!-- <img src="https://e1.pngegg.com/pngimages/912/119/png-clipart-simply-styled-icon-set-731-icons-free-fusion-360-orange-logo-illustration-thumbnail.png" width="30" height="30"/>&nbsp;&nbsp; -->
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/142795439/original/c9314290b9e3e079bc6e75254d8b1cac91137bf6/layout-and-design-a-pcb-in-autodesk-eagle.png" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-333333?style=flat&logo=eclipse" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://download.logo.wine/logo/Keil_(company)/Keil_(company)-Logo.wine.png" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://www.clipartkey.com/mpngs/m/224-2242895_gazebo-simulator-icon.png" width="30" height="30"/>&nbsp;&nbsp;
 <!-- <img src="https://p1.hiclipart.com/preview/756/432/905/simply-styled-icon-set-731-icons-free-blender-round-white-blue-and-orange-logo-png-clipart.jpg" width="30" height="30"/>&nbsp;&nbsp;  -->
- 
+ <!-- <img src="https://e1.pngegg.com/pngimages/912/119/png-clipart-simply-styled-icon-set-731-icons-free-fusion-360-orange-logo-illustration-thumbnail.png" width="30" height="30"/>&nbsp;&nbsp; -->
+
 #### Familiar Concepts
 - - [x] Robotics
 - - [x] Embedded Systems
