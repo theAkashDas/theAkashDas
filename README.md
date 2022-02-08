@@ -2,7 +2,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <p><em>Undergrad Engineering Student at <a href="https://iem.edu.in/">Institute of Engineering and Management</a>
-
+<img align="right" width="400" height="400" src="https://i.pinimg.com/originals/a0/3a/56/a03a56f4feaa8eb194117b5d0d926109.gif">
+ 
 - 🔭 I’m currently working on Embedded Systems ...
 - 🌱 I’m currently learning ROS, Machine Learning, Computer Vision, Swarm Intelligence...
 - 👯 I’m looking to collaborate on Robotics and Embedded System Works...
@@ -14,10 +15,17 @@
 
   **🛠 &nbsp;Tech Stack**
 
-- Languages: &nbsp;
+#### Languages: &nbsp;
  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=A8B9CC&logoColor=007ACC)
  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=A8B9CC&logoColor=007ACC)
  ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python&logoColor=007ACC)
+ 
+#### Familiar Concepts
+- - [x] Robotics
+- - [x] Embedded Systems
+- - [x] Image Processing
+- - [x] Internet of Things
+
 
   
 - IDEs: &nbsp;
