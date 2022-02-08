@@ -12,11 +12,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theAkashDas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
   **🛠 &nbsp;Tech Stack**
-
-#### Languages: &nbsp;
- ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=A8B9CC&logoColor=007ACC)
- ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=A8B9CC&logoColor=007ACC)
- ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python&logoColor=007ACC)
  
 #### Programming Languages
 
@@ -29,10 +24,10 @@
 #### Familiar Softwares
 
 <img src="https://answers.ros.org/upfiles/14554624266871161.png" width="30" height="30"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" width="30" height="30"/>&nbsp;&nbsp;
 <!-- <img src="https://e1.pngegg.com/pngimages/912/119/png-clipart-simply-styled-icon-set-731-icons-free-fusion-360-orange-logo-illustration-thumbnail.png" width="30" height="30"/>&nbsp;&nbsp; -->
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/142795439/original/c9314290b9e3e079bc6e75254d8b1cac91137bf6/layout-and-design-a-pcb-in-autodesk-eagle.png" width="30" height="30"/>&nbsp;&nbsp;
-<!-- <img src="https://banner2.cleanpng.com/20190429/tww/kisspng-autocad-computer-icons-autodesk-logo-adobe-illustr-5cc69fcfdf1481.8664286615565209119137.jpg" width="30" height="30"/>&nbsp;&nbsp; -->
+<img src="https://img.shields.io/badge/-333333?style=flat&logo=eclipse" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://download.logo.wine/logo/Keil_(company)/Keil_(company)-Logo.wine.png" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://www.clipartkey.com/mpngs/m/224-2242895_gazebo-simulator-icon.png" width="30" height="30"/>&nbsp;&nbsp;
 <!-- <img src="https://p1.hiclipart.com/preview/756/432/905/simply-styled-icon-set-731-icons-free-blender-round-white-blue-and-orange-logo-png-clipart.jpg" width="30" height="30"/>&nbsp;&nbsp;  -->
@@ -42,10 +37,4 @@
 - - [x] Embedded Systems
 - - [x] Image Processing
 - - [x] Internet of Things
-
-
-  
-- IDEs: &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-black?style=flat&logo=03234B&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+ 
