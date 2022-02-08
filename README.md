@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on Robotics and Embedded System Works...
 - 📫 You can reach me by: Linkedin - [Akash Das](https://www.linkedin.com/in/akash-das-16621219b/) or Email - akashdas250901@gmail.com
 - ⚡ If You Find Something cool, Count Me in.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theAkashDas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!-- 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theAkashDas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
   **🛠 &nbsp;Tech Stack**
  
