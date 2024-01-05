@@ -3,8 +3,8 @@
 <p><em>Undergrad Engineering Student at <a href="https://iem.edu.in/">Institute of Engineering and Management</a>
 <img align="right" width="400" height="400" src="https://i.pinimg.com/originals/a0/3a/56/a03a56f4feaa8eb194117b5d0d926109.gif">
  
-- 🔭 I’m currently working as R&D Intern in Keysight Technologies ...
-- 🌱 I’m currently learning ROS, Machine Learning, Computer Vision, Swarm Intelligence...
+- 🔭 I’m currently working as R&D Engineer in Network Analyzer Team in Keysight Technologies ...
+- 🌱 I’m currently learning FPGA, Bare Metal Programming, ROS, Swarm Intelligence...
 - 👯 I’m looking to collaborate on Robotics and Embedded System Works...
 - 📫 You can reach me by: Linkedin - [Akash Das](https://www.linkedin.com/in/akash-das-16621219b/) or Email - akashdas250901@gmail.com
 - ⚡ If You Find Something cool, Count Me in.
@@ -35,6 +35,5 @@
 #### Familiar Concepts
 - - [x] Robotics
 - - [x] Embedded Systems
-- - [x] Image Processing
 - - [x] Internet of Things
  
